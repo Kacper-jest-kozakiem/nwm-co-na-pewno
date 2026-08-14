@@ -4,5 +4,7 @@
 
 # print(f"To jest mój pierwszy program w Pythonie, a jego nazwa to: {__file__}")
 
-imie = input("Jak masz na imię? ")
+imie = input("Przetstaw się.")
 print(f"Siema {imie}")
+
+print(f"Siemanko kapi")
