@@ -11,4 +11,4 @@ print(f"Siemanko XD")
 
 print("Siema to jest mój pierwszy program w Pythonie!")
 
-# 
+# gówno
