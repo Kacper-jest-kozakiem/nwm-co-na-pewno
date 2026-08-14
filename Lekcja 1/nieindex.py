@@ -1,5 +1,15 @@
 programowanie = input("Jakie jest dla ciebe programowanie? ")
 
-wyswietlanie = input("Przymiotnik rodzaju nijakiego (np. ładne, szybkie, kolorowe)")
-problem = input("Synonim do słowa problem w dopełniaczu (np. problemu)")
-temat = input("Przymiotnik rodzaju męskiego (np. nieprawdopodobny, strudny)")
+wyswietlanie = input("Przymiotnik rodzaju nijakiego (np. ładne, szybkie, kolorowe) ")
+problem = input("Synonim do słowa problem w dopełniaczu (np. problemów) ")
+temat = input("Przymiotnik rodzaju męskiego (np. nieprawdopodobny, strudny) ")
+
+print()
+print(f"Programowanie jest {programowanie} i trzeba uważać,")
+print("Każda linijka na błędy naraża.")
+print("Print i input w każdym programie,")
+print(f"pobrane dane i {wyswietlanie} wyświetlanie.")
+print("Możliwości python mnustwo nam stwarza")
+print(f"W razie {problem} nie zapomnij komentarza")
+print(f"{temat} temat zmiennych jeszcze przed nami,")
+print("programowanie odmieni przed naszymi oczami.")
